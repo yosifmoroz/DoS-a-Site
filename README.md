@@ -1,4 +1,4 @@
-This is a tool that is basically sdslayer for noobs. heres the creds: 
+# This is a tool that is basically sdslayer for noobs. heres the creds: 
 
 
 
