@@ -112,3 +112,4 @@ socks5://proxy3.example.com:1080
 [![Email](https://img.shields.io/badge/Email-dev%40sinnners.city-red?style=flat-square&logo=gmail)](mailto:dev@sinnners.city)
 [![X](https://img.shields.io/badge/@synacket-black?style=flat-square&logo=x)](https://x.com/synacket)
 "# DoS-a-Site"  
+"# DoS-a-Site"  
