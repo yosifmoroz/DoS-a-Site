@@ -1,4 +1,3 @@
-# ⚔️ Slayer 7 - Application Layer Attack Suite
 # This is a tool that is basically sdslayer for noobs. heres the creds: 
 
 
